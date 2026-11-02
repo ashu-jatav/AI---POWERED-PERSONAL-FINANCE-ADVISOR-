@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+finance_advisor.db
+.venv/
+venv/
+.env
+
+# Large trained model
+model.pkl
